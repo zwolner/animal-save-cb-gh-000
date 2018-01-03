@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (max-width: 10900px) and (min-width: 406px) {
+@media only screen and (max-width: 1090px) and (min-width: 406px) {
   #monkey {
     top: 50px;
   }
